@@ -1,4 +1,4 @@
-# Express-ejs-template
+# Afrifoods
 
 Steps to reproduce:
 
